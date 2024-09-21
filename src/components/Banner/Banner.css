@@ -23,12 +23,12 @@
     display: grid;
     place-content: center;
     height: 100vh;
-    width: 60rem;
+    width: 40rem;
     padding: 6rem;
     text-align: left;
 }
 .banner-slogan-container p {
-    font-size: 2.3rem;
+    font-size: 1.9rem;
     color: var(--bigtitles);
     margin: 0.5rem 0;
 }
